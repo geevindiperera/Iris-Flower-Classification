@@ -13,16 +13,25 @@ Before you begin, ensure you have the following installed:
   pip install -r requirements.txt
 
 ## Installation
-1. Clone the repository: https://github.com/geevindiperera/Iris-Flower-Classification.git
+1. Clone the repository:
+    ```bash
 
-2. Navigate to the project folder: cd Iris-Flower-Classification
+   https://github.com/geevindiperera/Iris-Flower-Classification.git
 
-3. Install the required dependencies: pip install -r requirements.txt
+3. Navigate to the project folder:
+    ```bash
+   cd Iris-Flower-Classification
+
+4. Install the required dependencies:
+    ```bash
+     pip install -r requirements.txt
 
 ## Usage
-1. Run the Jupyter notebook: jupyter notebook iris_classification.ipynb
+1. Run the Jupyter notebook:
+   ```bash
+   jupyter notebook iris_classification.ipynb
 
-2. Follow the instructions in the notebook to:
+3. Follow the instructions in the notebook to:
 Load the dataset
 Build and train the neural network model
 Visualize results with EDA and plots
