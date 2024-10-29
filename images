@@ -1,2 +1,2 @@
 plt.savefig('images/accuracy_plot.png')
-
+plt.savefig('images/confusion_matrix.png')
