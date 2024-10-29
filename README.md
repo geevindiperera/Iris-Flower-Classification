@@ -49,4 +49,4 @@ Before you begin, ensure you have the following installed:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
-The dataset used in this project is from the UCI Machine Learning Repository.
+The dataset used in this project is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris).
