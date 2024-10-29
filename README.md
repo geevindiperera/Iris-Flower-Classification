@@ -6,5 +6,5 @@ This project builds a neural network with TensorFlow/Keras to classify Iris flow
 - Performance tracking and insights through detailed reports
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: https://github.com/geevindiperera/Iris-Flower-Classification.git
 
