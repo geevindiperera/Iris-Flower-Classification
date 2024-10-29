@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 3. Install the required dependencies: pip install -r requirements.txt
 
-#Usage
+## Usage
 1. Run the Jupyter notebook: jupyter notebook iris_classification.ipynb
 
 2. Follow the instructions in the notebook to:
@@ -27,15 +27,15 @@ Load the dataset
 Build and train the neural network model
 Visualize results with EDA and plots
 
-#Results
+## Results
 Test Accuracy: 93%
 
 Confusion Matrix:
 
 Accuracy Plot: ![image](https://github.com/user-attachments/assets/a0b6b0f2-f970-4ca0-b220-2a65a0354ac2)
 
-#License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+## Acknowledgments
 The dataset used in this project is from the UCI Machine Learning Repository.
