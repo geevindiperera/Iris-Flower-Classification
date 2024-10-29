@@ -32,9 +32,9 @@ Before you begin, ensure you have the following installed:
    jupyter notebook iris_classification.ipynb
 
 3. Follow the instructions in the notebook to:
-Load the dataset
-Build and train the neural network model
-Visualize results with EDA and plots
+- Load the dataset
+- Build and train the neural network model
+- Visualize results with EDA and plots
 
 ## Results
 - **Test Accuracy:** 93%
