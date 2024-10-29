@@ -39,11 +39,11 @@ Before you begin, ensure you have the following installed:
 ## Results
 - **Test Accuracy:** 93%
 - **Confusion Matrix:**
+![image](https://github.com/user-attachments/assets/4a02e671-9760-4039-bad2-e165a1623d21)
 
-  ![Confusion Matrix](images/confusion_matrix.png)
 
 - **Accuracy Plot:**
-  ![Accuracy Plot](images/accuracy_plot.png)
+![image](https://github.com/user-attachments/assets/b494142b-34f7-43ed-bca4-4a57340c2b7d)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
