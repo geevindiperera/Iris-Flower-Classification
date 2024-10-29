@@ -37,11 +37,13 @@ Build and train the neural network model
 Visualize results with EDA and plots
 
 ## Results
-Test Accuracy: 93%
+- **Test Accuracy:** 93%
+- **Confusion Matrix:**
 
-Confusion Matrix:
+  ![Confusion Matrix](images/confusion_matrix.png)
 
-Accuracy Plot: ![image](https://github.com/user-attachments/assets/a0b6b0f2-f970-4ca0-b220-2a65a0354ac2)
+- **Accuracy Plot:**
+  ![Accuracy Plot](images/accuracy_plot.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
